@@ -11,7 +11,7 @@ The analysis was conducted for the purposes of the course in Data Mining during 
 <center> <img src="https://github.com/ChrisNick92/DataMining/blob/main/Europenew_cases_per_million.gif?raw=true"> </center>
 
 
-Or *Which countries had had the most total Covid cases until the end of June 2021?*
+Or *Which countries have had the most total Covid cases until the end of June 2021?*
 
 ## Coutries with highest total Covid cases until 30/06/2021</center>
 
